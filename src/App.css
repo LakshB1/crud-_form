@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.search{
+  padding: 7px 20px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.btn{
+  padding: 9px 32px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 400;
+  border: 1px solid black !important;
+}
+
+table{
+  border: 1px solid black;
+}
+
+
+.parentsearch{
+  text-align: end;
+  margin-right: 200px;
+}
+
+.formtable{
+  margin-left: 20px;
+}
+
+.parentpagination{
+  width: 70px;
+  height: 28px; 
+  border-radius: 3px;
+  line-height: 28px;
+  list-style: none;
+  float: right;
+  margin-right: 240px;
+  display: flex;
+  gap: 30px;
+}
+
+.page-item a{
+  text-decoration: none;
+}
+
+.icon{
+  font-size: 35px;
+  cursor: pointer;  
+}

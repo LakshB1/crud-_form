@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "de90",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81gdgcYEajL._AC_SR300,375,0,C_BR3_.jpg",
+      "name": "laksh",
+      "email": "laksh@gmail.com",
+      "phonenum": "244349445"
+    },
+    {
+      "id": "4c15",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/j/8/w/f2023-aula-original-imagr4m2gjqgfgag.jpeg?q=70",
+      "name": "yug",
+      "email": "yug@gmail.com",
+      "phonenum": "243949554"
+    },
+    {
+      "id": "a4e0",
+      "image": "https://m.media-amazon.com/images/I/61TFJju3qNL._AC_UL320_.jpg",
+      "name": "tirth",
+      "email": "tirth@gmail.com",
+      "phonenum": "345835358"
+    },
+    {
+      "id": "dbf7",
+      "image": "https://m.media-amazon.com/images/I/71xuKE3A3OL._SX679_.jpg",
+      "name": "rudra",
+      "email": "rudra@gmail.com",
+      "phonenum": "583593954"
+    },
+    {
+      "id": "6467",
+      "image": "https://m.media-amazon.com/images/I/61TFJju3qNL._AC_UL320_.jpg",
+      "name": "umang",
+      "email": "umang@gmail.com",
+      "phonenum": "2485585445"
+    },
+    {
+      "id": "d519",
+      "image": "https://m.media-amazon.com/images/I/61TFJju3qNL._AC_UL320_.jpg",
+      "name": "paresh",
+      "email": "paresh@gmail.com",
+      "phonenum": "3453458345"
+    },
+    {
+      "id": "ecde",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/j/8/w/f2023-aula-original-imagr4m2gjqgfgag.jpeg?q=70",
+      "name": "umesh",
+      "email": "umesh@gmail.com",
+      "phonenum": "2493458345"
+    }
+  ]
+}
